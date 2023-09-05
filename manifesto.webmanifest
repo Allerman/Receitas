@@ -1,0 +1,18 @@
+{
+    "short_name": "receitas",
+    "name": "fome de geek",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff",
+    "backgroud_color": "#000000",
+    "backgroud-color": "#000000",
+    "description": "Página de receitas geek e para famintos curiosos",
+    "icons":[
+        {
+          "scr": "images/Fome_de_Geek_LOGO.png",
+          "type": "image/png",
+          "sizes": "2560x2560"
+        }
+    ]
+}

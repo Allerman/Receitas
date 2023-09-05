@@ -1,0 +1,32 @@
+{
+  "name": "receitas",
+  "version": "1.0.0",
+  "description": "Receitas geek e para curiosos famintos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allerman/Receitas.git"
+  },
+  "keywords": [
+    "Receitas",
+    "Studio",
+    "ghibli",
+    "The",
+    "Bear",
+    "One",
+    "Piece",
+    "Food",
+    "Wars",
+    "animes",
+    "food"
+  ],
+  "author": "Thayssa A. Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allerman/Receitas/issues"
+  },
+  "homepage": "https://github.com/Allerman/Receitas#readme"
+}
